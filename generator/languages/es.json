@@ -79,7 +79,7 @@
 
 /* footer */
 "footer_left": "Creado por <a href=\"https://opendatoscity.de/\">OpenDataCity</a>. Esta aplicación está disponible bajo licencia <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/\">CC-BY 3.0</a>.",
-"footer_right": "Esta página es analizada con Google Analytics. <a href=\"https://opendatoscity.de/impressum/\" target=\"_blank\">Aviso legal</a>",
+"footer_right": "<a href=\"https://opendatoscity.de/impressum/\" target=\"_blank\">Aviso legal</a>",
 
 /* embed texts */
 "license_info": "Esta aplicación está disponible bajo <a target=\"_blank\" href=\"http://creativecommons.org/licenses/by/3.0\">licencia CC-BY</a> y puede ser integrada en blogs y otros medios de comunicación:",

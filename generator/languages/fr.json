@@ -79,7 +79,7 @@
 		
 		/* footer */
 		"footer_left": "Créé par <a href=\"https://opendatacity.de/\">OpenDataCity</a>. L'application est mise à disposition sous licence <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/\">CC-BY 3.0</a>.",
-		"footer_right": "Cette page est analysée par Google Analytics. <a href=\"https://opendatacity.de/impressum/\" target=\"_blank\">Impressum</a>",
+		"footer_right": "<a href=\"https://opendatacity.de/impressum/\" target=\"_blank\">Impressum</a>",
 		
 		/* embed texts */
 		"license_info": "Cette application est mise à disposition sous licence <a target=\"_blank\" href=\"http://creativecommons.org/licenses/by/3.0\">CC-BY</a> et peut être intégrée à des blogs ou d'autres média:",
