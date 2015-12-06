@@ -41,9 +41,6 @@ var positions = cache(
 )
 
 
-//require('./modules/heatmap').generateHeatmap(positions, '../print/heatmap');
-//require('./modules/heatmap').generateInkmap(positions, '../print/inkmap');
-
 var events = require('./modules/contacts').import(vds, config);
 
 events = events.concat(require('./modules/tweets').import(config));
@@ -67,8 +64,6 @@ events = events.filter(function (event) {
 
 
 var statistics = new require('./modules/statistics').Statistics(config);
-//statistics.calculateSpeed(positions);
-//statistics.analyseMails(events);
 
 
 var graph = new require('./modules/graph').Graph();
@@ -164,7 +159,6 @@ compress(data, 'contacts');
 
 
 fs.writeFileSync('../web/data/data.js', 'var data = ' + JSON.stringify(data), 'utf8');
-//fs.writeFileSync('../web/data/data.js', 'var data = ' + JSON.stringify(data, null, '\t'), 'utf8');
 
 console.log('Analyse data.js');
 Object.keys(data).forEach(function (key) {
