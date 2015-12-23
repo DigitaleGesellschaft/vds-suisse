@@ -860,7 +860,7 @@ function Social () {
 
 			// add an OpenStreetMap tile layer
 			L.tileLayer('tiles/{z}/{x}/{y}.png', {
-				attribution: 'Tiles rendered by <a href="https://opendatacity.de" target="_blank">OpenDataCity</a>',
+				attribution: 'Tiles rendered by <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>',
 				noWrap: true
 			}).addTo(map);
 
