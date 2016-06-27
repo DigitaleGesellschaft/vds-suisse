@@ -44,7 +44,7 @@
 		"text_social_info3": "Aus Balthasars 22'324 E-Mails lässt sich so sein komplettes Umfeld aus Familie, Freunden und Kollegen ermitteln.",
 		
 		/* Fußzeilen-Text */
-		"footer": "Realisiert von <a href=\"https://opendatacity.de/\" target=\"_blank\">OpenDataCity</a>. Über die Datenquelle: <a href=\"http://www.digitale-gesellschaft.ch/vds\" target=\"_blank\">digiges.ch</a>. Anwendung steht unter <a href=\"http://creativecommons.org/licenses/by/3.0/de/\" target=\"_blank\">CC-BY 3.0</a>."
+		"footer": "Realisiert von <a href=\"https://opendatacity.de/\" target=\"_blank\">OpenDataCity</a>. Über die Datenquelle: <a href=\"https://www.digitale-gesellschaft.ch/vds\" target=\"_blank\">digiges.ch</a>. Anwendung steht unter <a href=\"https://creativecommons.org/licenses/by/3.0/de/\" target=\"_blank\">CC-BY 3.0</a>."
 	},
 
 	/* Textbausteine, die auf der Startseite verwendet werden */
@@ -65,9 +65,9 @@
 		"embed": "Einbetten",
 
 		/* Infotexte */
-		"info1": "<a href=\"http://www.balthasar-glaettli.ch/\" target=\"_blank\">Balthasar Glättli</a>, Mitglied des Schweizer Nationalrats für die &bdquo;Grünen&rdquo;, hat einen Teil seiner sechsmonatigen Vorratsdaten für diese Visualisierung <a href=\"https://opendatacity.de\">OpenDataCity</a> zur Verfügung gestellt. Im Ergebnis ergeben diese Vorratsdaten das, was Geheimdienste und Strafverfolgungsbehörden als Profil bezeichnen – ein umfassendes Bild über das gesamte Leben der überwachten Person.",
+		"info1": "<a href=\"https://www.balthasar-glaettli.ch/\" target=\"_blank\">Balthasar Glättli</a>, Mitglied des Schweizer Nationalrats für die &bdquo;Grünen&rdquo;, hat einen Teil seiner sechsmonatigen Vorratsdaten für diese Visualisierung <a href=\"https://opendatacity.de\">OpenDataCity</a> zur Verfügung gestellt. Im Ergebnis ergeben diese Vorratsdaten das, was Geheimdienste und Strafverfolgungsbehörden als Profil bezeichnen – ein umfassendes Bild über das gesamte Leben der überwachten Person.",
 		"info2": "Die Visualisierung baut dazu auf genau den Metadaten des Telefon- und Mail-Verkehrs auf, die im Rahmen der Vorratsdatenspeicherung erfasst werden. Weitere Hintergrundinformationen gibt es bei unserem Projektpartner <a href=\"https://www.digitale-gesellschaft.ch/vds.html\" target=\"_blank\">Digitale Gesellschaft Schweiz</a>.",
-		"info3": "Wir stellen die Visualisierung unter <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/de/\">CC-BY 3.0</a> zur Verfügung, so dass jedes Medium kostenlos die Anwendung einbetten und alle Grafiken frei verwenden kann.",
+		"info3": "Wir stellen die Visualisierung unter <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/de/\">CC-BY 3.0</a> zur Verfügung, so dass jedes Medium kostenlos die Anwendung einbetten und alle Grafiken frei verwenden kann.",
 		"facts_and_stats": "<strong>Weitere Fakten und Statistiken:</strong><ul><li>Die Mobilfunk- und E-Mail-Vorratsdaten umfassen einen <strong>Zeitraum von 6 Monaten</strong> (exakt 179 Tage).</li><li>In diesem Zeitraum wurde über das Mobiltelefon insgesamt <strong>7'112 Datenbank-Einträge</strong> erfasst. Davon 2'610 Einträge für Internetverbindungen (36.7%, 14.6 pro Tag), 3'085 SMS/MMS (43.4%, 17.2 pro Tag) und 1'417 Einträge für Telefonate (19.9%, 7.9 pro Tag)</li><li>Mit seinem Mobiltelefon hat Balthasar insgesamt 5'161'133'870 Bytes (<strong>5.2 GB</strong> - 28.8 MB pro Tag) <strong>Internettraffic</strong> verursacht. Davon wurden 979'745'187 Bytes (980 MB - 5.5 MB pro Tag) hochgeladen und 4'181'388'683 Bytes (4.2 GB - 23.4 MB pro Tag) runtergeladen.</li><li>Da mit jedem Telefonat, jeder SMS und jeder Internetverbindung auch der Ort des Mobiltelefons erfasst wird, können wir auch die <strong>Bewegung von Balthasar</strong> auswerten. Seine höchste Geschwindigkeiten betrug etwa 180 km/h während einer Zugfahrt am 09.04.2013 um 15:15. Insgesamt hat er während der 6 Monate eine Strecke von mindestens 16'000 km zurückgelegt.</li><li>Auch E-Mail-Metadaten werden im Rahmen der Vorratsdatenspeicherung erfasst. Innerhalb von 6 Monaten hat Balthasar insgesamt <strong>14'638 E-Mails empfangen</strong> (82 pro Tag) von etwa 6'500 absendenden Personen. Er selbst hat 1'654 E-Mails (9 pro Tag) an etwa 600 Personen versendet.</li></ul>",
 
 		/* Linkliste */
@@ -78,11 +78,11 @@
 		"link_translation": "Hilf uns dabei, die Visualisierung in andere Sprachen zu übersetzen: <a href=\"https://git.xiala.net/digiges/vds-suisse/tree/master/generator/languages\">git.xiala.net/digiges/vds-suisse/.../languages</a>.",
 
 		/* Fußzeile */
-		"footer_left": "Realisiert von <a href=\"https://opendatacity.de/\">OpenDataCity</a>. Anwendung steht unter <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/de/\">CC-BY 3.0</a>.",
+		"footer_left": "Realisiert von <a href=\"https://opendatacity.de/\">OpenDataCity</a>. Anwendung steht unter <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/de/\">CC-BY 3.0</a>.",
 		"footer_right": "<a href=\"https://opendatacity.de/impressum/\" target=\"_blank\">Impressum</a>",
 
 		/* Embed-Texte */
-		"license_info": "Diese Browser-App steht unter <a target=\"_blank\" href=\"http://creativecommons.org/licenses/by/3.0\">CC-BY-Lizenz</a> und darf gerne in Blogs und anderen Medien eingebettet werden:",
+		"license_info": "Diese Browser-App steht unter <a target=\"_blank\" href=\"https://creativecommons.org/licenses/by/3.0\">CC-BY-Lizenz</a> und darf gerne in Blogs und anderen Medien eingebettet werden:",
 		"created_by": "Ein Informationsangebot von",
 		"embed_info": "Für Profis: Zusätzlich lässt sich durch einen an die URL angehängten Hash-Parameter der vorausgewählte Tab definieren.<ul><li><code>#tab=calendar</code> Die <a href=\"https://digitale-gesellschaft.ch/vds/frame_de.html#tab=calendar\" target=\"_blank\">Kalenderdarstellung</a> wird angezeigt.</li><li><code>#tab=social</code> Das <a href=\"https://digitale-gesellschaft.ch/vds/frame_de.html#tab=social\" target=\"_blank\">Soziale Netzwerk</a> wird angezeigt.</li></ul>",
 		"close": "Schließen"
