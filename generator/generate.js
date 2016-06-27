@@ -32,7 +32,7 @@ var languageList = languages.filter(function (lang) {
 })
 languageList.push({
 	label:'Other language',
-	indexUrl:'https://github.com/opendatacity/vds-suisse/tree/master/generator/languages'
+	indexUrl:'https://git.xiala.net/digiges/vds-suisse/tree/master/generator/languages'
 })
 
 languages.forEach(function (lang) {

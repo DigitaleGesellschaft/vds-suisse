@@ -72,10 +72,10 @@
 		
 		/* list of links */
 		"links_heading": "Plus de liens:",
-		"link_github": "Le code source complet est sur GitHub: <a href=\"https://github.com/opendatacity/vds-suisse/\">github.com/opendatacity/vds-suisse</a>.",
+		"link_git": "Le code source complet est sur Xiala: <a href=\"https://git.xiala.net/digiges/vds-suisse/\">git.xiala.net/digiges/vds-suisse</a>.",
 		"link_graphic_calendar": "Graphique haute résolution du <a href=\"download/calendar.png\">calendrier</a>.",
 		"link_graphic_network": "Graphique haute résolution du <a href=\"download/network_4096.png\">réseau social</a>.",
-		"link_translation": "Aidez-nous à traduire cette application dans d'autres langues: <a href=\"https://github.com/opendatacity/vds-suisse/tree/master/generator/languages\">github.com/opendatacity/vds-suisse/.../languages</a>.",
+		"link_translation": "Aidez-nous à traduire cette application dans d'autres langues: <a href=\"https://git.xiala.net/digiges/vds-suisse/tree/master/generator/languages\">git.xiala.net/digiges/vds-suisse/.../languages</a>.",
 		
 		/* footer */
 		"footer_left": "Créé par <a href=\"https://opendatacity.de/\">OpenDataCity</a>. L'application est mise à disposition sous licence <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/\">CC-BY 3.0</a>.",
