@@ -305,8 +305,8 @@ function Map() {
 	}).setView([47, 7.5], 7);
 
 	// add an OpenStreetMap tile layer
-	L.tileLayer('//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		attribution: 'Map data &copy; <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>'
+	L.tileLayer('https://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicmV0dGljaHNjaG5pZGkiLCJhIjoiY2lpaTFmdTNyMDAxeXZubTBpZ3EyZGU0MiJ9.BZaiaJoTGB_6H3nLIpAVLw', {
+		attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
 	var cellLayer = L.layerGroup();
