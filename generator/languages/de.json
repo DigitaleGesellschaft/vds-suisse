@@ -84,7 +84,7 @@
 		/* Embed-Texte */
 		"license_info": "Diese Browser-App steht unter <a target=\"_blank\" href=\"http://creativecommons.org/licenses/by/3.0\">CC-BY-Lizenz</a> und darf gerne in Blogs und anderen Medien eingebettet werden:",
 		"created_by": "Ein Informationsangebot von",
-		"embed_info": "Für Profis: Zusätzlich lässt sich durch einen an die URL angehängten Hash-Parameter der vorausgewählte Tab definieren.<ul><li><code>#tab=calendar</code> Die <a href=\"http://apps.opendatacity.de/vds/frame_de.html#tab=calendar\" target=\"_blank\">Kalenderdarstellung</a> wird angezeigt.</li><li><code>#tab=social</code> Das <a href=\"http://apps.opendatacity.de/vds/frame_de.html#tab=social\" target=\"_blank\">Soziale Netzwerk</a> wird angezeigt.</li></ul>",
+		"embed_info": "Für Profis: Zusätzlich lässt sich durch einen an die URL angehängten Hash-Parameter der vorausgewählte Tab definieren.<ul><li><code>#tab=calendar</code> Die <a href=\"https://digitale-gesellschaft.ch/vds/frame_de.html#tab=calendar\" target=\"_blank\">Kalenderdarstellung</a> wird angezeigt.</li><li><code>#tab=social</code> Das <a href=\"https://digitale-gesellschaft.ch/vds/frame_de.html#tab=social\" target=\"_blank\">Soziale Netzwerk</a> wird angezeigt.</li></ul>",
 		"close": "Schließen"
 	},
 

@@ -3,7 +3,7 @@
 
 ## Where can I find it?
 
-The application is online at http://apps.opendatacity.de/vds/index_en.html
+The application is online at https://digitale-gesellschaft.ch/vds/index_en.html
 
 ## What we need?
 
