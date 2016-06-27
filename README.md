@@ -9,7 +9,7 @@ The application is online at https://digitale-gesellschaft.ch/vds/index_en.html
 
 We need help to translate the application into other languages, so that everybody on planet earth can understands the meaning of "metadata".
 
-We describe the translation process here: [github.com/.../generator/languages](https://github.com/opendatacity/vds-suisse/tree/master/generator/languages)
+We describe the translation process here: [git.xiala.net/.../generator/languages](https://git.xiala.net/digiges/vds-suisse/tree/master/generator/languages)
 
 ## What's inside?
 
