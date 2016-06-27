@@ -1,5 +1,5 @@
 var title_long = 'Vorratsdatenspeicherung in der Schweiz';
-var where_to = 'http://apps.opendatacity.de/vds';
+var where_to = 'https://digitale-gesellschaft.ch/vds';
 
 $(document).ready(function () {
 	
