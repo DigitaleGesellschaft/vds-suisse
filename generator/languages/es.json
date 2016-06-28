@@ -83,6 +83,7 @@
 /* embed texts */
 "license_info": "Esta aplicación está disponible bajo <a target=\"_blank\" href=\"https://creativecommons.org/licenses/by/3.0\">licencia CC-BY</a> y puede ser integrada en blogs y otros medios de comunicación:",
 "created_by": "Producido por",
+"creator": "Sociedad Digital Suiza",
 "embed_info": "Para usuarios/as avanzadas: Se puede definir una pestaña pre-seleccionada añadiendo un parámetro a la dirección web <ul><li><code>#tab=calendar</code> Para mostrar la <a href=\"https://apps.opendatoscity.de/vds/frame_en.html#tab=calendar\" target=\"_blank\">vista calendario</a>.</li><li><code>#tab=social</code> Para mostrar la <a href=\"https://apps.opendatoscity.de/vds/frame_en.html#tab=social\" target=\"_blank\">red social</a>.</li></ul>",
 "close": "Cerrar"
 },
