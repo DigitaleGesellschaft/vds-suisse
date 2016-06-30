@@ -3,7 +3,7 @@
 
 ## Where can I find it?
 
-The application is online at https://digitale-gesellschaft.ch/vds/index_en.html
+The application is online at https://digitale-gesellschaft.ch/vds-suisse/index_en.html
 
 ## What we need?
 
