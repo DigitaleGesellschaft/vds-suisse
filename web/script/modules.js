@@ -305,7 +305,7 @@ function Map() {
 	}).setView([47, 7.5], 7);
 
 	// add an OpenStreetMap tile layer
-	L.tileLayer('https://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicmV0dGljaHNjaG5pZGkiLCJhIjoiY2lpaTFmdTNyMDAxeXZubTBpZ3EyZGU0MiJ9.BZaiaJoTGB_6H3nLIpAVLw', {
+	L.tileLayer('https://api.mapbox.com/styles/v1/digiges/ciq02sl6p001hdvm4mz6jqiyj/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZGlnaWdlcyIsImEiOiJjaXB5ZDR3a3QwMDh5aThub3d2MXhyOGxxIn0.fIljMHjLA-NVudY_QJWFAg', {
 		attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
