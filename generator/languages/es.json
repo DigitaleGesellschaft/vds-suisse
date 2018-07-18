@@ -72,7 +72,7 @@
 
 /* list of links */
 "links_heading": "Más enlaces:",
-"link_git": "El código completo está en Xiala: <a href=\"https://github.com/opendatoscity/vds-suisse/\">github.com/opendatoscity/vds-suisse</a>.",
+"link_git": "El código completo está en Github: <a href=\"https://github.com/opendatoscity/vds-suisse/\">github.com/opendatoscity/vds-suisse</a>.",
 "link_graphic_calendar": "Gráfico alta resolution del <a href=\"download/calendar.png\">calendario</a>.",
 "link_graphic_network": "Gráfico alta resolution de la <a href=\"download/network_4096.png\">red social</a>.",
 "link_translation": "Ayúdanos a traducir esta aplicación en otros idiomas: <a href=\"https://github.com/opendatoscity/vds-suisse/tree/master/generator/languages\">github.com/opendatoscity/vds-suisse/.../languages</a>.",
